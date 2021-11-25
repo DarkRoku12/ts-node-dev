@@ -19,10 +19,6 @@
     "tsnd": "lib/bin.js"
   },
   "main": "lib",
-  "files": [
-    "icons",
-    "lib"
-  ],
   "prettier": {
     "singleQuote": true,
     "semi": false
